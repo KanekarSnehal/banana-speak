@@ -1,0 +1,52 @@
+body{
+    background-image: url('images/minion.jpg');
+    background-size: cover;
+    text-align: center;
+    color:rgb(240, 21, 94);
+    font-size: x-large;
+}
+p{
+    font-weight:900;
+}
+#text-input{
+    text-align: center;
+    width: 50%;
+    height: 10vh;
+    display: block;
+    margin: auto;
+    padding: 1rem;
+    cursor:auto;
+    background-color:whitesmoke;
+    opacity: 0.75;
+    font-size: x-large;
+}
+
+#btn-translate{
+    text-align: center;
+}
+
+#output{
+    text-align: center;
+    border: solid rgb(252, 244, 244);
+    height: 10vh;
+    width: 50%;
+    margin: auto;
+    padding: 1rem;
+    background-color:whitesmoke;
+    opacity: 0.75;
+    font-size: x-large;
+    color: black;
+}
+
+#btn-translate{
+    background: rgb(228, 26, 93);
+    border: none;
+    color: #fff;
+    padding: 0.7rem 1rem;
+    border-radius: 0.5rem;
+    font-size: large;
+    cursor: pointer;
+    outline: #fff;
+    margin: 1rem;
+    text-align: center;
+}
